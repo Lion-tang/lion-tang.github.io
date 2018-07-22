@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[hello world]]></title>
-    <url>%2F2018%2F07%2F11%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is my very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[在这里,出现在你眼里]]></title>
+    <url>%2F2018%2F07%2F22%2F%E5%9C%A8%E8%BF%99%E9%87%8C-%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%BD%A0%E7%9C%BC%E9%87%8C%2F</url>
+    <content type="text"><![CDATA[有的人浅薄，有的人金玉其表败絮其中。有一天，你会遇到一个彩虹般绚烂的人，你会觉得其他人都只是浮云而已. 一条街道——吸引我目光的方向一棵大树——指引我内心的向往 星星在哪里都是很亮的,就看你有没有抬头去看他们 谢谢你！和你共勉，一起走吧！]]></content>
+      <categories>
+        <category>初面</category>
+      </categories>
   </entry>
 </search>

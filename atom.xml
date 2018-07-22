@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-22T15:11:58.281Z</updated>
+  <updated>2018-07-22T15:57:22.760Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,22 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello world</title>
-    <link href="http://yoursite.com/2018/07/11/hello-world/"/>
-    <id>http://yoursite.com/2018/07/11/hello-world/</id>
-    <published>2018-07-10T17:33:57.145Z</published>
-    <updated>2018-07-22T15:11:58.281Z</updated>
+    <title>在这里,出现在你眼里</title>
+    <link href="http://yoursite.com/2018/07/22/%E5%9C%A8%E8%BF%99%E9%87%8C-%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%BD%A0%E7%9C%BC%E9%87%8C/"/>
+    <id>http://yoursite.com/2018/07/22/在这里-出现在你眼里/</id>
+    <published>2018-07-22T15:22:36.000Z</published>
+    <updated>2018-07-22T15:57:22.760Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is my very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>有的人浅薄，有的人金玉其表败絮其中。有一天，你会遇到一个彩虹般绚烂的人，你会觉得其他人都只是浮云而已. </p><p>一条街道——吸引我目光的方向<br>一棵大树——指引我内心的向往 </p><p>星星在哪里都是很亮的,就看你有没有抬头去看他们</p></blockquote><p>谢谢你！<br>和你共勉，一起走吧！</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is my very first post. Check &lt;a href=&quot;https://hexo.io
+        &lt;blockquote&gt;
+&lt;p&gt;有的人浅薄，有的人金玉其表败絮其中。有一天，你会遇到一个彩虹般绚烂的人，你会觉得其他人都只是浮云而已. &lt;/p&gt;
+&lt;p&gt;一条街道——吸引我目光的方向&lt;br&gt;一棵大树——指引我内心的向往 &lt;/p&gt;
+&lt;p&gt;星星在哪里都是很亮的,就看你有没有抬头去看他们
       
     
     </summary>
+    
+      <category term="初面" scheme="http://yoursite.com/categories/%E5%88%9D%E9%9D%A2/"/>
     
     
   </entry>
