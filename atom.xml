@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Lion-tang.github.io/"/>
-  <updated>2018-07-29T15:27:36.983Z</updated>
+  <updated>2018-08-06T13:03:40.672Z</updated>
   <id>http://Lion-tang.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>看老外算算数</title>
+    <link href="http://Lion-tang.github.io/2018/08/06/foreigner/"/>
+    <id>http://Lion-tang.github.io/2018/08/06/foreigner/</id>
+    <published>2018-08-06T12:40:10.000Z</published>
+    <updated>2018-08-06T13:03:40.672Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="英国人算数很菜鸡？"><a href="#英国人算数很菜鸡？" class="headerlink" title="英国人算数很菜鸡？"></a>英国人算数很菜鸡？</h1><ul><li>早些年听说英国的数学计算差的让人汗颜，他们对于基本计算是用手指头来算的，中国人除了基本的九九乘法表熟记于心外，还有很多类似珠心算的计算方法。<a id="more"></a><img src="/2018/08/06/foreigner/timg1.jpg" alt="caculate"><br>所以，<strong>外国人的数学一定比中国人普遍都差吗</strong>？<br>今天我们来一起看看外国人怎么算算术，</li></ul><ul><li>如上图，他们利用巧妙的图片的形式，能够快速的计算出结果，其实这个原理很简单，<h3 id="先计算百位数"><a href="#先计算百位数" class="headerlink" title="先计算百位数"></a>先计算百位数</h3></li><li>将数字十位数先拆开，然后分别相乘，例如12×17，那十位数相乘就是1×1=1，那么百位数就是1<h3 id="再来看十位数"><a href="#再来看十位数" class="headerlink" title="再来看十位数"></a>再来看十位数</h3>十位数和另一个数的个位数相乘然后相加，那就是12×17这个例子中1×7+2×1=9，则十位数就是9<h3 id="最后是个位数"><a href="#最后是个位数" class="headerlink" title="最后是个位数"></a>最后是个位数</h3>个位数则是相乘的两个数的个位数相乘，那就是2×7=14<h2 id="最后结果就是100-90-14-204"><a href="#最后结果就是100-90-14-204" class="headerlink" title="最后结果就是100+90+14=204"></a>最后结果就是100+90+14=204</h2></li><li>其实就是将结果拆分计算然后最后加和。</li><li>最后回到我们的问题，其实呢，叫外国人心算算术的话，他们还是会用他们的手指头来算，而我们中国人把这种基础算法牢记于心，就可以随时运用，但是，注意但是，外国人的数学并不是差，因为基础算术在数学领域实在太渺小了，数学并不是算术算得快就是数学好，只能证明我们对于某个计算过程简化得比较好，或者是掌握得比较好，数学包括了很多方面，代数演算，数值计算，立体几何，解析几何，线性代数，概率统计，数学分析等等，所以数学这条路还有很长得道路要走呢</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;英国人算数很菜鸡？&quot;&gt;&lt;a href=&quot;#英国人算数很菜鸡？&quot; class=&quot;headerlink&quot; title=&quot;英国人算数很菜鸡？&quot;&gt;&lt;/a&gt;英国人算数很菜鸡？&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;早些年听说英国的数学计算差的让人汗颜，他们对于基本计算是用手指头来算的，中国人除了基本的九九乘法表熟记于心外，还有很多类似珠心算的计算方法。&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="dashi_curriculum" scheme="http://Lion-tang.github.io/tags/dashi-curriculum/"/>
+    
+  </entry>
   
   <entry>
     <title>MAC?WIN?</title>
